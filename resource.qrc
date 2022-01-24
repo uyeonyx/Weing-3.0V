@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>resource/recordMode.png</file>
+    <file>resource/record.png</file>
+    <file>resource/runedetected.png</file>
+    <file>resource/running.png</file>
+    <file>resource/stop.png</file>
+    <file>resource/violdetected.png</file>
+    <file>resource/aing.ico</file>
+  </qresource>
+</RCC>
