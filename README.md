@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-![test](./img.png)
+![test](./img.PNG)
 
-=======
->>>>>>> 3db2ec2115d1d0ea12e0da7b56ea060136d6cf0e
 # Weing-3.0V
 메이플스토리 매크로 자체 개발 (Key Record -Replay 방식) (GUI)
 
@@ -10,8 +7,5 @@
 * GUI pyQT5 라이브러리 활용
 * 파일시스템과 threading 활용
 * 입출력관련 각종 라이브러리 활용
-<<<<<<< HEAD
 
 # Windows 기준 pyInstaller를 통해 빌드하여 exe파일 사용가능.
-=======
->>>>>>> 3db2ec2115d1d0ea12e0da7b56ea060136d6cf0e
