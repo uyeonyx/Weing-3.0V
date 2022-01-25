@@ -8,4 +8,4 @@
 * 파일시스템과 threading 활용
 * 입출력관련 각종 라이브러리 활용
 
-# Windows 기준 pyInstaller를 통해 빌드하여 exe파일 사용가능.
+### Windows 기준 pyInstaller를 통해 빌드하여 exe파일 사용가능.
