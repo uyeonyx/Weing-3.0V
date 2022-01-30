@@ -7,5 +7,6 @@
 * GUI pyQT5 라이브러리 활용
 * 파일시스템과 threading 활용
 * 입출력관련 각종 라이브러리 활용
+* ImageSearch를 통해 실시간 이미지 확인을 통한 동적인 매크로 실행
 
 ### Windows 기준 pyInstaller를 통해 빌드하여 exe파일 사용가능.
