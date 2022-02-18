@@ -1,7 +1,7 @@
 ![test](./img.PNG)
 
 # Weing-3.0V
-메이플스토리 매크로 자체 개발 (Key Record -Replay 방식) (GUI)
+온라인게임 매크로 자체 개발 (Key Record -Replay 방식) (GUI)
 
 * 파이썬을 통해 개발
 * GUI pyQT5 라이브러리 활용
